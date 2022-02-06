@@ -1,1 +1,3 @@
 ds-test/=lib/ds-test/src/
+@yearnvaults/=lib/yearn-vaults/
+@openzeppelin/=lib/openzeppelin-contracts/
