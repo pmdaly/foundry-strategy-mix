@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: AGPL-3.0
-pragma solidity ^0.8.0;
+pragma solidity ^0.6.12;
 
 import {DSTest} from "ds-test/test.sol";
 import {Utilities} from "./utils/Utilities.sol";
