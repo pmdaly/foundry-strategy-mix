@@ -1,10 +1,6 @@
-# Brownie
-__pycache__
-.history
-.hypothesis/
-build/
-reports/
-.env
+# Foundry
+out/
+cache/
 
 # Node/npm
 node_modules/
